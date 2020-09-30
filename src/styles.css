@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+.times {
+  display: flex;
+  justify-content: space-around;
+}
+
+.time {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
